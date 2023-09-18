@@ -12,4 +12,5 @@ Add to your `eslintrc.json` file:
   "extends": [
     "@guizioliveira/eslint-config/react", 
   ]
+}
 ```
