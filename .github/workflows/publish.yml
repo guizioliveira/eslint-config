@@ -17,9 +17,6 @@ jobs:
           node-version: 16
           scope: ${{ github.repository_owner }}
           registry-url: https://npm.pkg.github.com
-  
-      - name: Install Dependencies
-        run: npm install
         
       - name: Publish Package
         run: npm publish
