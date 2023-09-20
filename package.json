@@ -13,6 +13,9 @@
     "url": "https://github.com/guizioliveira/eslint-config/issues"
   },
   "homepage": "https://github.com/guizioliveira/eslint-config#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
