@@ -1,6 +1,6 @@
 {
   "name": "@guizioliveira/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lint configuration for Javascript ecosystem projects",
   "main": "index.js",
   "repository": {
