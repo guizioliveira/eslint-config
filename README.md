@@ -1,4 +1,5 @@
-# @guizioliveira ESLint config
+# ESLint config
+The linter configuration that I use in my projects. 
 
 ## Setup
 ### Install dependencies:
